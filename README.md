@@ -1,2 +1,6 @@
 # alura-course
-<m>Estes es un readme para este repositorio<m>
+- Estado del proyecto: En construcción.
+
+Para ejecutar el sistema, debes poner:
+
+```npm install react```
